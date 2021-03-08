@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+#### Github Stats 
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nglx&show_icons=true&count_private=true" align="center" /></div> 
 
 <!--
 **nglx/nglx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
